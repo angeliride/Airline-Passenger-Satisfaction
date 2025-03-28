@@ -24,6 +24,26 @@ Ease of Online booking - satysfakcja z procesu rezerwacji online
 
 Gate location - satysfakcja z lokalizacji bramki
 
+Inflight entertainment - satysfakcja z systemu rozrywki na pokładzie
+
+On-board service - satysfakcja z obsługi na pokładzie
+
+Leg room service - satysfakcja z przestrzeni na nogi
+
+Baggage handling - satysfakcja z obsługi bagażu
+
+Check-in service - satysfakcja z procesu odprawy
+
+Inflight service - satysfakcja z usługi na pokładzie
+
+Cleanliness - satysfakcja z czystości w samolocie
+
+Departure Delay in Minutes - opóźnienie wylotu w minutach
+
+Arrival Delay in Minutes - opóźnienie przylotu w minutach
+
+Satisfaction - poziom satysfakcji pasażera (Zadowolony, Neutralny/Niezadowolony)
+
 Food and drink - satysfakcja z jedzenia i napojów na pokładzie
 
 Online boarding - satysfakcja z procesu odprawy online
